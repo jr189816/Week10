@@ -119,6 +119,11 @@ form div textarea {
     width: 100%;
     height: 5rem;
 }
+.p1 {
+    padding-left: 1em;
+    padding-bottom: .5em;
+    font-weight: bold;
+}
     /*end of css for Contact Page*/
 footer {
     flex-shrink: 0;
