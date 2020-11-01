@@ -18,10 +18,9 @@ h1 {
 .main-nav ul {
     margin: 0;
     padding: 0;
-    height: 40px;
     display: none;
     list-style: none;
-    background-color: beige;
+    background-color: dimgrey;
 }
 .main-nav ul.active {
     display: block;
@@ -33,7 +32,7 @@ h1 {
     text-decoration: none;
     text-align: center;
     display: block;
-    color: grey;
+    color: white;
 }
 .main-nav a:hover, .main-nav a:focus {
     background: #ccc;
