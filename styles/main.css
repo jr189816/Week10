@@ -87,7 +87,7 @@ li img {
   margin: 10px auto;
   position: relative;
   width: 100%;
-  height: 240px;
+  height: 50px;
   padding: 0px;
 }
 #slideshow img {
@@ -102,3 +102,30 @@ li img {
   bottom: 10px;
 }
     /* Slideshow "content" css end */
+
+    /*css for Contact Page*/
+form {
+    padding-left: 1em;
+    padding-right: 1rem;
+}
+form div {
+    padding-bottom: .25rem;
+}
+form div span.formText {
+    display: inline-block;
+    width: 100px;
+}
+form div textarea {
+    width: 100%;
+    height: 5rem;
+}
+    /*end of css for Contact Page*/
+footer {
+    flex-shrink: 0;
+    height: 50px;
+    margin-top: 50px;
+}
+footer div {
+    text-align: center;
+    vertical-align: bottom;
+}
